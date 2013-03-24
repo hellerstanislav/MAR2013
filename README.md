@@ -2,7 +2,7 @@
 Marketing 2013
 ==============
 
-Czech Quisine Consulting
+Czech Cuisine Consulting
 ------------------------
 Spolecnost poskytujici poradenstvi v oblasti ceske a moravske gastronomie.
 Mozne sluzby:
