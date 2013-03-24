@@ -6,8 +6,11 @@ Czech Cuisine Consulting
 ------------------------
 Spolecnost poskytujici poradenstvi v oblasti ceske a moravske gastronomie.
 Mozne sluzby:
-* rady ohledne receptu (domaci zeli, uzene maso, klobasky, frgale, slivovice, domaci pivo..)
+* konzultace ohledne receptu (domaci zeli, uzene maso, klobasky, frgale, slivovice, domaci pivo..)
 * ukazkove akce "jak na to" (ukazka vyroby podle receptu)
+* "Gurmánské víkendy" - ubytování + jídlo + lekce vaření
+** Sladký víkend: sladká vína, ovocné šťávy, buchy, trdelník...
+** Slaný víkend: zelí, maso, pivo, slivovice...
 
 Segmentace:
 * zamereni se na mladsi lidi, kteri maji chut varit
@@ -24,9 +27,12 @@ Marketingovy mix:
 Produkt: 
 Cena:	400 Kc / hod / osoba
 Distribuce: dojedeme az domu
-Propagace: viralni video, internetova propagace (banery na serverech s gastronomickou tematikou)
-           PR clanky v lokalnim tisku
-           Celkove asi 40% 
+Propagace:
+* pokus: viralni video
+* internetova propagace (banery na serverech s gastronomickou tematikou)
+* PR clanky v lokalnim tisku
+* Celkove asi 40% nakladu pujde na propagaci
+
 
 
 Disconnect
