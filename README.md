@@ -12,6 +12,8 @@ Spolecnost poskytujici poradenstvi v oblasti ceske a moravske gastronomie.
   * Sladký víkend: sladká vína, ovocné šťávy, buchy, trdelník...
   * Slaný víkend: zelí, maso, pivo, slivovice...
 
+* Návrh - "on site" podpora v kuchyni (např pomoc při vaření na nějakou větší akci - třeba svatbu, ...)
+
 ***
 ###Segmentace:
 * zamereni se na mladsi lidi, kteri maji chut varit
