@@ -36,13 +36,17 @@ Spolecnost poskytujici poradenstvi v oblasti ceske a moravske gastronomie.
     * Slaný víkend: zelí, maso, pivo, slivovice...
   * Návrh do budoucna - "on site" podpora v kuchyni (např pomoc při vaření na nějakou větší akci - třeba svatbu, ...)
 * Cena: 400 Kc / hod / osoba, 4000 KC / vikend
-* Distribuce: dojedeme az domu
+* Distribuce: 
+  * je to služba, takže nevymýšlejme žádný pitomosti
+  * nakupování víkendů asi na e-shopu na našich stránkách
+  * jinak na zavolání
+  * kdy a jak se platí? Za víkendy asi předem převodem na účet (faktura..). Za ukázkovou akci asi přímo na místě (cash). 
+  * dojedeme az domu
 * Propagace:
-  * pokus: viralni video
   * internetova propagace (banery na serverech s gastronomickou tematikou)
   * PR clanky v lokalnim tisku
   * Celkove asi 40% nakladu pujde na propagaci
-  * vymyslet zjistovani spokojenosti zakaznolu
+  * vymyslet zjišťování spokojenosti zakazníků - např. nějaký druh 
   * pokud někdo službu doporučí (sám člověk musí výslovně říct, kdo ho doporučil), dostane jako
     prémii 30% slevu na další službu
 * Lidé:
@@ -52,6 +56,17 @@ Spolecnost poskytujici poradenstvi v oblasti ceske a moravske gastronomie.
     * při špatné reakci snížení platu, při pozitivní bonusy
     * zdarma měsíčně stanovený počet kusů dodávaného zboží
     * pokud má zaměstnanec řidičák B a jezdí za klienty, může měsíčně ujet 100km pro vlastní potřebu.
+
+
+***
+###5. Přílohy
+Udělal bych asi naše logo, vyrobíme slogan. Možná se povede i návrh internetových stránek, ale na to možná
+nebude čas. Asi by byla možná na ochutnávka - dalo by se to rozumně připravit (+zapřemýšlet nad hygienou při ukázce).
+Asi by to chtělo vymyslet něco originálnějšího...
+
+***
+###6. Závěrečné shrnutí návrhu
+Časový a finanční rozpočet, zájem lidí?
 
 
 Disconnect
